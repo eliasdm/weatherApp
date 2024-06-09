@@ -14,7 +14,7 @@ This app provides current weather conditions, forecasts, and other relevant mete
 ## Screenshots
 
 ![Screenshot 1](images/home-screenshot.png)
-![Screenshot 2](images/home-screenshot-2)
+![Screenshot 2](images/screenshot-2.png)
 
 ## Getting Started
 
